@@ -1,2 +1,2 @@
 # mega-drive-template
-Template for Developing Software for SEGA Mega Drive using SGDK
+Template for developing software for the Sega Mega Drive/Genesis using SGDK.
