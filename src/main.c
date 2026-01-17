@@ -1,6 +1,6 @@
 #include <genesis.h>
 
-int main(bool hardReset)
+int main()
 {
     while (true)
     {
